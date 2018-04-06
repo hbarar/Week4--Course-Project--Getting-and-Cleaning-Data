@@ -58,11 +58,17 @@ Subject:  the number (ID) of the test subject (person who performed the experime
 Activity_type: the type of the activity for which different measurements were taken.
 
 1-WALKING (value 1): subject was walking during the test
+
 2-WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
+
 3-WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
+
 4-SITTING (value 4): subject was sitting during the test
+
 5-STANDING (value 5): subject was standing during the test
+
 6-LAYING (value 6): subject was laying down during the test
+
 
 Measurements: Columns 3 to 88 are related to different measurements
 
